@@ -1,0 +1,33 @@
+.header{
+    text-align:center;
+    font-style:italic;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+p{
+    text-align: center;
+}
+navbar-nav{
+    text-align: center;
+}
+.menu{
+  text-align: center; 
+  list-style-type: none;
+  background-color: darkgray; 
+  color: black ; 
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.reserve{
+    float:center;
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+carousel-slide{
+    height:100px;
+    text-align:center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
